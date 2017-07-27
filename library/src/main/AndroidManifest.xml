@@ -2,6 +2,9 @@
 
     package="com.daohen.webview.library">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
     <application android:allowBackup="true"
         android:supportsRtl="true">
 
